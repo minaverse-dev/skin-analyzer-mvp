@@ -29,9 +29,20 @@ IoT-enabled beauty device with interchangeable measurement tips for skin analysi
 ## 🚀 Interactive Prototype
 [View Live Demo](https://minaverse-dev.github.io/skin-analyzer-mvp/index.html)
 
+
 > Vanilla JavaScript beauty tech prototype with zero dependencies.
 > Features file upload, drag-and-drop API, CSS animations, and responsive design.
 > Clean code architecture with modern ES6+ and mobile-first approach.
+
+## Browser Compatibility
+- ✅ Chrome, Firefox, Safari (Desktop only)
+- ⚠️ Mobile browsers (limited support)
+- 
+## 📱 Web Application Screenshots
+
+| Upload Interface | AI Processing | Analysis Results |
+|:---:|:---:|:---:|
+| ![Main](assets/screenshots/01-webapp-main-screen.png) | ![Loading](assets/screenshots/03-webapp-analyze-screen.png) | ![Results](assets/screenshots/04-webapp-result-screen.png) |
 
 ### Design Features
 - **Ergonomic pen-type form factor** optimized for comfortable grip
