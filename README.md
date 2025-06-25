@@ -22,7 +22,7 @@ IoT-enabled beauty device with interchangeable measurement tips for skin analysi
 # Skin Analyzer MVP
 
 > An IoT-enabled beauty device MVP with modular measurement tips, designed
-> for precision skin diagnostics and >real-time monitoring.
+> for precision skin diagnostics and real-time monitoring.
 
 ## 🖼️ Hardware Mockup
 ![Skin Analyzer Mockup](https://raw.githubusercontent.com/minaverse-dev/skin-analyzer-mvp/main/skin-analyzer-mockup-v3.png)
