@@ -1,25 +1,29 @@
 # Skin Analyzer MVP
 
 > An IoT-enabled beauty device with modular tips for skin diagnostics and real-time data sync.
-> Prototype for a skin analysis device - 3D Model and conceptual design
-
-## 📋 Project Overview
-IoT-enabled beauty device with interchangeable measurement tips for skin analysis and monitoring.
 
 ## 🖼️ Hardware Mockup
+
 ![Skin Analyzer Mockup](https://raw.githubusercontent.com/minaverse-dev/skin-analyzer-mvp/main/assets/mockups/skin-analyzer-mockup-v1.png)
 
 ## 🚀 [Live Demo](https://minaverse-dev.github.io/skin-analyzer-mvp/)
 
 💻 A live frontend prototype simulating the web-based skin analysis process.  
 📸 We recommend taking a real-time photo for accurate color analysis.  
-🔒 No photo data is collected.  It's just HTML.  
-  
-> Vanilla JavaScript beauty tech prototype with zero dependencies.
-> Features file upload, drag-and-drop API, CSS animations, and responsive design.
+🔒 No photo data is collected. It's just HTML.
+
+### Features
+- Camera-based photo input
+- File upload, Desktop only (drag & drop supported)
+- Interactive AI analysis demo
+- Responsive UI for desktop
+- CSS animations and smooth transitions
+
+> Vanilla JavaScript beauty tech prototype with zero dependencies.  
+> Features file upload, drag-and-drop API, CSS animations, and responsive design.  
 > Clean code architecture with modern ES6+ and mobile-first approach.
 
-## Browser Compatibility
+### Browser Compatibility
 - ✅ Chrome, Firefox, Safari (Desktop)
 
 ## 📱 Web Application Flow
@@ -32,13 +36,14 @@ IoT-enabled beauty device with interchangeable measurement tips for skin analysi
 |:---:|:---:|
 | ![Analyzing](assets/screenshots/03-webapp-analyze-screen.png) | ![Complete](assets/screenshots/04-webapp-result-screen.png) |
 
-### 🔍 Design Features
+## 🔍 Design Features
+
 - ✍️ **Ergonomic** pen-type form for comfort
 - 🔁 **Modular tips**: microscope, humidity sensor, etc.
 - 🧠 **Reverse engineered** professional mechanism
 - 🌐 **IoT connectivity** for real-time sync
 
-### 📊 Technical Specifications
+## 📊 Technical Specifications
 
 | Feature             | Detail                                      |
 |---------------------|---------------------------------------------|
@@ -47,8 +52,8 @@ IoT-enabled beauty device with interchangeable measurement tips for skin analysi
 | Integration         | Notion API, cloud storage compatible        |
 | Safety              | Non-invasive contactless sensor system      |
 
-
 ## 🔧 Development Status
+
 - [x] Reverse engineering completed
 - [x] 3D CAD modeling (Fusion 360)
 - [x] Mockup design finalized
@@ -57,11 +62,13 @@ IoT-enabled beauty device with interchangeable measurement tips for skin analysi
 - [ ] Patent application filing
 
 ## 🎯 Next Steps
-1. Multi-device Charging Dock System (in development)    
-2. Sensor integration design  
-3. IoT connectivity implementation  
+
+1. Multi-device Charging Dock System (in development)
+2. Sensor integration design
+3. IoT connectivity implementation
 4. Data management system development
 5. Patent application submission
 
 ---
+
 *This project represents an innovative approach to personal beauty device technology, combining traditional measurement methods with modern IoT capabilities.*
