@@ -38,11 +38,16 @@ IoT-enabled beauty device with interchangeable measurement tips for skin analysi
 - ✅ Chrome, Firefox, Safari (Desktop only)
 - ⚠️ Mobile browsers (limited support)
 - 
-## 📱 Web Application Screenshots
 
-| Upload Interface | AI Processing | Analysis Results |
-|:---:|:---:|:---:|
-| ![Main](assets/screenshots/01-webapp-main-screen.png) | ![Loading](assets/screenshots/03-webapp-analyze-screen.png) | ![Results](assets/screenshots/04-webapp-result-screen.png) |
+## 📱 Web Application Flow
+
+| Upload Screen | File Selected |
+|:---:|:---:|
+| ![Upload](assets/screenshots/01-webapp-main-screen.png) | ![Selected](assets/screenshots/02-webapp-upload-screen.png) |
+
+| AI Processing | Results |
+|:---:|:---:|
+| ![Analyzing](assets/screenshots/03-webapp-analyze-screen.png) | ![Complete](assets/screenshots/04-webapp-result-screen.png) |
 
 ### Design Features
 - **Ergonomic pen-type form factor** optimized for comfortable grip
