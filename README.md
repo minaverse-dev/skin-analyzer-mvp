@@ -19,7 +19,7 @@ Beauty + Technology + Design = ✨
 IoT-enabled beauty device with interchangeable measurement tips for skin analysis and monitoring.
 
 ## 🎨 Mockup Design
-![Device Mockup](./mockup-image.png)
+![Device Mockup](./skin-analzer-mockup_v0.png)
 
 ### Design Features
 - **Ergonomic pen-type form factor** optimized for comfortable grip
