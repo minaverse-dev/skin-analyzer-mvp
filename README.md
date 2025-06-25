@@ -20,11 +20,12 @@ IoT-enabled beauty device with interchangeable measurement tips for skin analysi
 [View Live Demo](https://minaverse-dev.github.io/skin-analyzer-mvp/index.html)
 
 A live frontend prototype simulating the web-based skin analysis process.  
-⚠️ Note: iPhone users can use camera but cannot access photo library or saved photo.
+📸 We recommend taking a real-time photo for accurate color analysis.
 
-**Features**:
-- File upload (drag & drop supported)
-- Simulated AI analysis flow
+**Features**
+- Camera-based photo input
+- File upload, Desktop only (drag & drop supported)
+- Interactive AI analysis demo
 - Responsive UI for desktop
 - CSS animations and smooth transitions  
   
