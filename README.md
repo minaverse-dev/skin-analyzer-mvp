@@ -1,17 +1,10 @@
 # Skin Analyzer MVP
 
-An IoT-enabled beauty device with modular tips for skin diagnostics and real-time data sync.
-Prototype for a skin analysis device - 3D Model and conceptual design
-
-# Beauty Device Mockup Design
+> An IoT-enabled beauty device with modular tips for skin diagnostics and real-time data sync.
+> Prototype for a skin analysis device - 3D Model and conceptual design
 
 ## 📋 Project Overview
 IoT-enabled beauty device with interchangeable measurement tips for skin analysis and monitoring.
-
-
-# Skin Analyzer MVP
-> An IoT-enabled beauty device MVP with modular measurement tips, designed
-> for precision skin diagnostics and real-time monitoring.
 
 ## 🖼️ Hardware Mockup
 ![Skin Analyzer Mockup](https://raw.githubusercontent.com/minaverse-dev/skin-analyzer-mvp/main/assets/mockups/skin-analyzer-mockup-v1.png)
@@ -21,13 +14,6 @@ IoT-enabled beauty device with interchangeable measurement tips for skin analysi
 💻 A live frontend prototype simulating the web-based skin analysis process.  
 📸 We recommend taking a real-time photo for accurate color analysis.  
 🔒 No photo data is collected.  It's just HTML.  
-
-**Features**
-- Camera-based photo input
-- File upload, Desktop only (drag & drop supported)
-- Interactive AI analysis demo
-- Responsive UI for desktop
-- CSS animations and smooth transitions  
   
 > Vanilla JavaScript beauty tech prototype with zero dependencies.
 > Features file upload, drag-and-drop API, CSS animations, and responsive design.
@@ -79,7 +65,3 @@ IoT-enabled beauty device with interchangeable measurement tips for skin analysi
 
 ---
 *This project represents an innovative approach to personal beauty device technology, combining traditional measurement methods with modern IoT capabilities.*
-
-> An IoT-enabled beauty device MVP 
-> with modular measurement tips, designed 
-> for precision skin diagnostics and real-time monitoring.
