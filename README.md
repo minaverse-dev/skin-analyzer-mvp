@@ -25,8 +25,8 @@ A live frontend prototype simulating the web-based skin analysis process.
 - File upload (drag & drop supported)
 - Simulated AI analysis flow
 - Responsive UI for desktop
-- CSS animations and smooth transitions
-- 
+- CSS animations and smooth transitions  
+  
 > Vanilla JavaScript beauty tech prototype with zero dependencies.
 > Features file upload, drag-and-drop API, CSS animations, and responsive design.
 > Clean code architecture with modern ES6+ and mobile-first approach.
