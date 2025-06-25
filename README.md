@@ -52,3 +52,7 @@ IoT-enabled beauty device with interchangeable measurement tips for skin analysi
 
 ---
 *This project represents an innovative approach to personal beauty device technology, combining traditional measurement methods with modern IoT capabilities.*
+
+> An IoT-enabled beauty device MVP 
+> with modular measurement tips, designed 
+> for precision skin diagnostics and real-time monitoring.
