@@ -20,7 +20,6 @@ IoT-enabled beauty device with interchangeable measurement tips for skin analysi
 
 
 # Skin Analyzer MVP
-
 > An IoT-enabled beauty device MVP with modular measurement tips, designed
 > for precision skin diagnostics and real-time monitoring.
 
@@ -30,9 +29,9 @@ IoT-enabled beauty device with interchangeable measurement tips for skin analysi
 ## 🚀 Interactive Prototype
 [View Live Demo](https://minaverse-dev.github.io/skin-analyzer-mvp/index.html)
 
-Vanilla JavaScript beauty tech prototype with zero dependencies.
-Features file upload, drag-and-drop API, CSS animations, and responsive design.
-Clean code architecture with modern ES6+ and mobile-first approach.
+> Vanilla JavaScript beauty tech prototype with zero dependencies.
+> Features file upload, drag-and-drop API, CSS animations, and responsive design.
+> Clean code architecture with modern ES6+ and mobile-first approach.
 
 ### Design Features
 - **Ergonomic pen-type form factor** optimized for comfortable grip
