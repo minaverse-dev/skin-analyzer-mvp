@@ -32,7 +32,7 @@ A live frontend prototype simulating the web-based skin analysis process.
 > Clean code architecture with modern ES6+ and mobile-first approach.
 
 ## Browser Compatibility
-- ✅ Chrome, Firefox, Safari (Desktop only)
+- ✅ Chrome, Firefox, Safari (Desktop)
 - ⚠️ Mobile browsers (limited support)
 
 ## 📱 Web Application Flow
