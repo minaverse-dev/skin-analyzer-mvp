@@ -21,7 +21,7 @@ IoT-enabled beauty device with interchangeable measurement tips for skin analysi
 ## 🎨 Mockup Design
 
 
-![Skin Analyzer Mockup](https://raw.githubusercontent.com/minaverse-dev/skin-analyzer-mvp/main/skin-analyzer-mockup-v2.png)
+![Skin Analyzer Mockup](https://raw.githubusercontent.com/minaverse-dev/skin-analyzer-mvp/main/skin-analyzer-mockup-v3.png)
 
 
 ### Design Features
