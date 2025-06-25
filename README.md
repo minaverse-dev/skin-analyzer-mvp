@@ -71,10 +71,11 @@ IoT-enabled beauty device with interchangeable measurement tips for skin analysi
 - [ ] Patent application filing
 
 ## 🎯 Next Steps
-1. Sensor integration design
-2. IoT connectivity implementation  
-3. Data management system development
-4. Patent application submission
+1. Multi-device Charging Dock System (in development)    
+2. Sensor integration design  
+3. IoT connectivity implementation  
+4. Data management system development
+5. Patent application submission
 
 ---
 *This project represents an innovative approach to personal beauty device technology, combining traditional measurement methods with modern IoT capabilities.*
