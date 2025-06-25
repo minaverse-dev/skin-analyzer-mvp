@@ -37,7 +37,6 @@ IoT-enabled beauty device with interchangeable measurement tips for skin analysi
 ## Browser Compatibility
 - ✅ Chrome, Firefox, Safari (Desktop only)
 - ⚠️ Mobile browsers (limited support)
-- 
 
 ## 📱 Web Application Flow
 
