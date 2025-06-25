@@ -23,8 +23,8 @@ A live frontend prototype simulating the web-based skin analysis process.
 
 ## 🚀 [Live Demo](https://minaverse-dev.github.io/skin-analyzer-mvp/)
 
-📸 We recommend taking a real-time photo for accurate color analysis.
-🔒 No photo data is collected. 💻 It's just HTML.
+📸 We recommend taking a real-time photo for accurate color analysis.  
+🔒 No photo data is collected. 💻 It's just HTML.  
 
 **Features**
 - Camera-based photo input
