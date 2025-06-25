@@ -40,7 +40,7 @@
 
 - ✍️ **Ergonomic** pen-type form for comfort
 - 🔁 **Modular tips**: microscope, humidity sensor, etc.
-- 🧠 **Reverse engineered** professional mechanism
+- 🧠 **Computre Aided Engineered** professional mechanism
 - 🌐 **IoT connectivity** for real-time sync
 
 ## 📊 Technical Specifications
@@ -54,7 +54,7 @@
 
 ## 🔧 Development Status
 
-- [x] Reverse engineering completed
+- [x] Computer Aided Engineering completed
 - [x] 3D CAD modeling (Fusion 360)
 - [x] Mockup design finalized
 - [ ] Electronic component integration
