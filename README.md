@@ -16,15 +16,11 @@ IoT-enabled beauty device with interchangeable measurement tips for skin analysi
 ## 🖼️ Hardware Mockup
 ![Skin Analyzer Mockup](https://raw.githubusercontent.com/minaverse-dev/skin-analyzer-mvp/main/assets/mockups/skin-analyzer-mockup-v1.png)
 
-## 🚀 Interactive Prototype
-[View Live Demo](https://minaverse-dev.github.io/skin-analyzer-mvp/index.html)
-
-A live frontend prototype simulating the web-based skin analysis process.  
-
 ## 🚀 [Live Demo](https://minaverse-dev.github.io/skin-analyzer-mvp/)
 
+💻 A live frontend prototype simulating the web-based skin analysis process.  
 📸 We recommend taking a real-time photo for accurate color analysis.  
-🔒 No photo data is collected. 💻 It's just HTML.  
+🔒 No photo data is collected.  It's just HTML.  
 
 **Features**
 - Camera-based photo input
