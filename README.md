@@ -1,17 +1,7 @@
-# 👋 Welcome to MINAVERSE
+# Skin Analyzer MVP
 
-# skin-analyzer-mvp
+An IoT-enabled beauty device with modular tips for skin diagnostics and real-time data sync.
 Prototype for a skin analysis device - 3D Model and conceptual design
-
-## About Me
-Beauty + Technology + Design = ✨
-
-## Projects
-- [skin-analyzer-mvp](https://github.com/minaverse-dev/skin-analyzer-mvp)
-
-## Contact
-📧 minaverse.dev@gmail.com
-
 
 # Beauty Device Mockup Design
 
@@ -29,7 +19,14 @@ IoT-enabled beauty device with interchangeable measurement tips for skin analysi
 ## 🚀 Interactive Prototype
 [View Live Demo](https://minaverse-dev.github.io/skin-analyzer-mvp/index.html)
 
+A live frontend prototype simulating the web-based skin analysis process.
 
+**Features**:
+- File upload (drag & drop supported)
+- Simulated AI analysis flow
+- Responsive UI for desktop
+- CSS animations and smooth transitions
+- 
 > Vanilla JavaScript beauty tech prototype with zero dependencies.
 > Features file upload, drag-and-drop API, CSS animations, and responsive design.
 > Clean code architecture with modern ES6+ and mobile-first approach.
@@ -48,17 +45,21 @@ IoT-enabled beauty device with interchangeable measurement tips for skin analysi
 |:---:|:---:|
 | ![Analyzing](assets/screenshots/03-webapp-analyze-screen.png) | ![Complete](assets/screenshots/04-webapp-result-screen.png) |
 
-### Design Features
-- **Ergonomic pen-type form factor** optimized for comfortable grip
-- **Modular tip system** supporting multiple measurement functions
-- **Professional-grade internal mechanism** based on reverse engineering
-- **IoT connectivity** for real-time data collection and analysis
+### 🔍 Design Features
+- ✍️ **Ergonomic** pen-type form for comfort
+- 🔁 **Modular tips**: microscope, humidity sensor, etc.
+- 🧠 **Reverse engineered** professional mechanism
+- 🌐 **IoT connectivity** for real-time sync
 
-### Technical Specifications
-- **Measurement Tips**: Microscope, Temperature/Humidity sensor
-- **Connectivity**: Bluetooth/WiFi for data sync
-- **Data Integration**: Notion API and cloud storage compatibility
-- **Safety Design**: Non-invasive measurement approach
+### 📊 Technical Specifications
+
+| Feature             | Detail                                      |
+|---------------------|---------------------------------------------|
+| Measurement Tips    | Microscope, Temp/Humidity sensor            |
+| Connectivity        | Bluetooth / WiFi                            |
+| Integration         | Notion API, cloud storage compatible        |
+| Safety              | Non-invasive contactless sensor system      |
+
 
 ## 🔧 Development Status
 - [x] Reverse engineering completed
