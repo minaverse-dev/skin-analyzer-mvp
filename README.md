@@ -30,11 +30,11 @@
 
 | Upload Screen | File Selected |
 |:---:|:---:|
-| ![Upload](assets/screenshots/01-webapp-main-screen.png) | ![Selected](assets/screenshots/02-webapp-upload-screen.png) |
+| ![Upload](assets/screenshots/01-webapp-main-screen.webp) | ![Selected](assets/screenshots/02-webapp-upload-screen.webp) |
 
 | AI Processing | Results |
 |:---:|:---:|
-| ![Analyzing](assets/screenshots/03-webapp-analyze-screen.png) | ![Complete](assets/screenshots/04-webapp-result-screen.png) |
+| ![Analyzing](assets/screenshots/03-webapp-analyze-screen.webp) | ![Complete](assets/screenshots/04-webapp-result-screen.webp) |
 
 ## 🔍 Design Features
 
