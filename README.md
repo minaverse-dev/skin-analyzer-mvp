@@ -76,6 +76,7 @@
 ## 🚀 Deployment History - Cherish Myself Always 
 | Date | Version | Component | Status | Files | Description |  
 |------|---------|-----------|--------|-------|-------------|  
-| 2025-06-29 | v0.1.1 | Software | ✅ Updated | index.html | Rebranding: KINESTA → Cherish Myself Always / png to webp  
+| 2025-06-29 | v0.1.2 | Software | ✅ Updated | index.html | Rebranding: KINESTA → Cherish Myself Always / png to webp  
+| 2025-06-26 | v1.1.1 | Software | ✅ Updated | index.html | Web interface improvements  
 | 2025-06-26 | v1.1.0 | Hardware | ✅ Updated | skin-analyzer-mockup-v1.png | Device mockup design updated
-| 2025-06-26 | v1.1.0 | Software | ✅ Updated | index.html | Web interface improvements
+
