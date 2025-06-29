@@ -61,13 +61,26 @@
 - [ ] IoT module development
 - [ ] Patent application filing
 
-## 🎯 Next Steps
-
+<details>
+<summary><h2>🎯 Next Steps</h2></summary>
 1. Multi-device Charging Dock System (in development)
 2. Sensor integration design
 3. IoT connectivity implementation
 4. Data management system development
 5. Patent application submission
+</details>
+
+## 🚧 The Other Projects in Development
+
+### Personal Color Analysis Platform (2025)
+- Advanced **AI-driven personal color analysis** web application
+- Integration of body composition metrics and skin tone assessment
+- Mobile-first React interface with real-time analysis
+- Blockchain-based body profile NFT generation
+- Gamified wellness ecosystem with point rewards
+
+*Demo version nearing completion (June 29, 2025)*  
+*Repository will be made public following beta completion*
 
 ---
 
