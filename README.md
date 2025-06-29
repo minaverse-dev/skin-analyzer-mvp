@@ -62,13 +62,15 @@
 - [ ] Patent application filing
 
 <details>
-<summary><h2>🎯 Next Steps</h2></summary>  
-1. Multi-device Charging Dock System (in development)  
-2. Sensor integration design  
-3. IoT connectivity implementation  
-4. Data management system development  
-5. Patent application submission  
-</details>  
+<summary><h2>🎯 Next Steps</h2></summary>
+
+1. Multi-device Charging Dock System (in development)
+2. Sensor integration design
+3. IoT connectivity implementation
+4. Data management system development
+5. Patent application submission
+
+</details>
 
 ## 🚧 The Other Projects in Development
 
