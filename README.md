@@ -37,8 +37,6 @@
 
 ## 🔍 Design Features
 
-- ✍️ **Ergonomic** pen-type form for comfort
-- 🔁 **Modular tips**: microscope, humidity sensor, etc.
 - 🧠 **Computer Aided Engineered** professional mechanism
 - 🌐 **IoT connectivity** for real-time sync
 
