@@ -14,7 +14,6 @@
 
 ### Features
 - Camera-based photo input
-- File upload, Desktop only (drag & drop supported)
 - Interactive AI analysis demo
 - Responsive UI for desktop
 - CSS animations and smooth transitions
