@@ -78,7 +78,6 @@
 - Advanced **AI-driven personal color analysis** web application
 - Integration of body composition metrics and skin tone assessment
 - Mobile-first React interface with real-time analysis
-- Blockchain-based body profile NFT generation
 - Gamified wellness ecosystem with point rewards
 
 *Demo version nearing completion (June 29, 2025)*  
