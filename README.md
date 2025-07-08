@@ -46,7 +46,6 @@
 
 | Feature             | Detail                                      |
 |---------------------|---------------------------------------------|
-| Measurement Tips    | Microscope, Temp/Humidity sensor            |
 | Connectivity        | Bluetooth / WiFi                            |
 | Integration         | Notion API, cloud storage compatible        |
 | Safety              | Non-invasive contactless sensor system      |
