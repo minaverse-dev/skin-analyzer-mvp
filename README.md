@@ -1,12 +1,12 @@
-# Skin Analyzer MVP
+# Skin scanner MVP
 
 > An IoT-enabled beauty device with modular tips for skin diagnostics and real-time data sync.
 
 ## 🖼️ Hardware Mockup
 
-![Skin Analyzer Mockup](https://raw.githubusercontent.com/minaverse-dev/skin-analyzer-mvp/main/assets/mockups/skin-analyzer-mockup-v1.png)
+![Skin scanner Mockup](https://raw.githubusercontent.com/minaverse-dev/skin-scanner-mvp/main/assets/mockups/skin-scanner-mockup-v1.png)
 
-## 🚀 [Live Demo](https://minaverse-dev.github.io/skin-analyzer-mvp/)
+## 🚀 [Live Demo](https://minaverse-dev.github.io/skin-scanner-mvp/)
 
 💻 A live frontend prototype simulating the web-based skin analysis process.  
 📸 We recommend taking a real-time photo for accurate color analysis.  
@@ -88,5 +88,5 @@
 |------|---------|-----------|--------|-------|-------------|  
 | 2025-06-29 | v0.1.2 | Software | ✅ Updated | index.html | Rebranding: KINESTA → Cherish Myself Always / PNG to WebP  
 | 2025-06-26 | v0.1.1 | Software | ✅ Updated | index.html | Web interface improvements  
-| 2025-06-26 | v0.1.0 | Hardware | ✅ Updated | skin-analyzer-mockup-v1.webp | Initial device mockup design  
+| 2025-06-26 | v0.1.0 | Hardware | ✅ Updated | skin-scanner-mockup-v1.webp | Initial device mockup design  
 
